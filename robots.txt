@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/animo-and-sons-plumbing-naperville/sitemap.xml
+Sitemap: https://local-business-guides.github.io/animo-and-sons-plumbing-naperville/news-sitemap.xml
